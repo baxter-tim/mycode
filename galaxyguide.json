@@ -1,1 +1,1 @@
-[{"name": "Zaphod Beeblebrox", "species": "Betelgeusian"}, {"name": "Arthur Dent", "species": "Human"}]
+[{"name": "Zaphod Beeblebrox", "species": "Betelgeusian", "has_towel": "nope", "travel_count": "41", "home_planet": "venutia"}, {"name": "Arthur Dent", "species": "Human", "has_towel": "1", "travel_count": "7", "home_planet": "Earth"}, {"name": "Belore Higgins", "species": "Traxian", "has_towel": "four", "travel_count": "21", "home_planet": "Montico"}]
