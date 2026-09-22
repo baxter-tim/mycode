@@ -14,11 +14,10 @@ app = Flask(__name__)
 # route() function of the Flask class is a
 # decorator, tells the application which URL
 # should call the associated function
-##@app.route("/")
-app.route("/hello")
+@app.route("/")
 def hello_world():
-   return "Hello Curios George! ##why"
+   return "Hello Curious George! Where is the Man in the Yellow Hat?"
 
 if __name__ == "__main__":
    app.run(host="0.0.0.0", port=2224) # runs the application
-   #app.run(host="0.0.0.0", port=2224, debug=True) # DEBUG MODE
+   # app.run(host="0.0.0.0", port=2224, debug=True) # DEBUG MODE

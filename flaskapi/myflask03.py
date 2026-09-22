@@ -1,4 +1,4 @@
-                                                                                                                               #!/usr/bin/python3
+#!/usr/bin/python3
 """Alta3 Research | rzfeeser@alta3.com
    Exploring redirection with a simple Flask server. This server has
    the following endpoints:

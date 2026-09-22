@@ -2,7 +2,8 @@
 """Alta3 Research | rzfeeser@alta3.com
    A simple Flask server. Responds to HTTP 'GET /hello/<name>' requests
    with 'Hello <name>' attached to a 200, where <name> is the same as what the
-   requester sent to the endpoint."""
+   requester sent to the endpoint.
+   Need to add at the url /hello/<name> make one up, this will display"""
 
 from flask import Flask
 app = Flask(__name__)
